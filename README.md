@@ -6,11 +6,9 @@ Autor: Pere Garbera González
 
 Data: 20/12/2024
 
-## INTRODUCCIÓ
-
-Per a aquesta  PAC, i per no perdre la línea temàtica que he portat durant el curs, he decidit analitzar dos casos que, un  cop   més, estan relacionats amb la producció musical.
 
 ## 1. FL Studio 
+### INTRODUCCIÓ
 El primer cas és el de l'estació de treball d'àudio (DAW per les seves sigles en anglès) Fl Studio. És un exemple clar d'ibridació  de mitjans ja que combina varies disciplines culturals, que possiblement en un passat no haurien confluit si no fos pels avenços de l'era  digital. 
 Els exemples van des de la notació musical representada de manera gràfica i intuitva amb l'eina Piano Roll, als dissenys i animacions gràfiques que inclouen alguns instruments i efectes virtuals com l'emulador de Rhodes Stage-73 d'Arturia o l'efecte Cassette desenvolupat per Waveforms passant per la digitalització i processament de so que ens permet el programa en si.
 
@@ -44,7 +42,7 @@ En segon lloc, i com vaig comentar a la primera PAC, l'assequibilitat d'una eina
 
 ## 2. ZGameEditor Visualizer
 
-## INTRODUCCIÓ
+### INTRODUCCIÓ
 Per a aquest segon cas he decidit centrar-me en un aspecte de l'anterior programari que crec que mereix  el seu propi anàlisi. Aquest plugin natiu amb el programa FL Studio, a diferència de tots els altres, no afecta en  absolutament res a la composició musical, aquest porgrama el que fa és una representació  gràfica de la senyal àudio que rep a través d'un canal del _mixer_. La hibridació és clara, combina senyals de so amb elements gràfics que reaccionen als canvis d'intensitat, to i ritme  per a generar una animació que, tot i ser senzilla, pot complementar,  per exemple, la cançó a _YouTube_ per tal de fer més dinàmica  l'experiència de l'oïent.
 
 ---
