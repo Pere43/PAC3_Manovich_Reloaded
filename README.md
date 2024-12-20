@@ -99,18 +99,18 @@ Manovich, Lev (2013) _El Software Toma el Mando_ New York: Bloomsbury Publishing
 
 Descals, Nuria(2010) 'Principios de Lev Manovich'
 
-Disponible a: https://es.slideshare.net/slideshow/principios-de-lev-manovich/3439954
+_Disponible a:_ https://es.slideshare.net/slideshow/principios-de-lev-manovich/3439954
 
 
 
 
 Fantano (2024). _There's Too Much Music_ [YouTube] 
 
-Disponible a: https://www.youtube.com/watch?v=7WmgujgIgb8&ab_channel=fantano Consultat 28/11/2024. 
+_Disponible a:_ https://www.youtube.com/watch?v=7WmgujgIgb8&ab_channel=fantano Consultat 28/11/2024. 
 
 
 
 
 Pilley, Max (2024) 'More music released in a single day in 2024 than the whole of 1989, says study', _NME_ 
 
-Disponible a: https://www.nme.com/news/music/more-music-released-in-a-single-day-in-2024-than-the-whole-of-1989-says-study-3815719
+_Disponible a:_ https://www.nme.com/news/music/more-music-released-in-a-single-day-in-2024-than-the-whole-of-1989-says-study-3815719
