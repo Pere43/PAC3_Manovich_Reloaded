@@ -43,7 +43,7 @@ De tots els principis, aquest possiblement és el que veiem més clar. La mutaci
 Hi han varis aspectes culturals  que FL Studio i altres DAW han afectat. En primer lloc, com he dit a l'anterior apartat, s'han obert moltes possibilitats tècniques per al món, no només de la música electrònica, sinó per a qualsevol altre gènere musical.
 En segon lloc, i com vaig comentar a la primera PAC, l'assequibilitat d'una eina tan  potent per a produir  música, ha democratitzat moltíssim el procés creatiu. Això   té moltes conseqüències com ara que en un sol dia de 2024 s'hagin publicat  més cançons que en tot l'any 1989, o que molts instrumentistes hagin estat substituits per un plugin i una seqüència automatitzada de notes. Podem veure això com a una negativa, però crec que el progrés i la democratització no és l'arrel d'aquest problema, si hagués de donar la meva opinió diria que la precarietat dels músics ve molt més donada per falta d'incentivització del consum de música  en directe  a nivell local, o el fet de veure la música com a un què a consumir. 
 
-[NME article](https://github.com/Pere43/PAC3_Manovich_Reloaded/blob/2e07160007ddc2f8503effc401c4fc88e23b1f5d/article.JPG)
+![NME article](https://github.com/Pere43/PAC3_Manovich_Reloaded/blob/2e07160007ddc2f8503effc401c4fc88e23b1f5d/article.JPG)
 
 
 ## 2. ZGameEditor Visualizer
