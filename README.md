@@ -89,12 +89,15 @@ No permet mostrar arxius tan grans per tan si us interessa el podeu descarregar 
 ## Bibliografia i referències
 
 Descals, Nuria(2010) 'Principios de Lev Manovich'
+
 Disponible a: https://es.slideshare.net/slideshow/principios-de-lev-manovich/3439954
 
 
 Fantano (2024). _There's Too Much Music_ [YouTube] 
-Consultat 28/11/2024. Disponible a: https://www.youtube.com/watch?v=7WmgujgIgb8&ab_channel=fantano
+
+Disponible a: https://www.youtube.com/watch?v=7WmgujgIgb8&ab_channel=fantano Consultat 28/11/2024. 
 
 
 Pilley, Max (2024) 'More music released in a single day in 2024 than the whole of 1989, says study', _NME_ 
+
 Disponible a: https://www.nme.com/news/music/more-music-released-in-a-single-day-in-2024-than-the-whole-of-1989-says-study-3815719
