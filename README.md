@@ -12,6 +12,8 @@ Data: 20/12/2024
 El primer cas és el de l'estació de treball d'àudio (DAW per les seves sigles en anglès) Fl Studio. És un exemple clar d'ibridació  de mitjans ja que combina varies disciplines culturals, que possiblement en un passat no haurien confluit si no fos pels avenços de l'era  digital. 
 Els exemples van des de la notació musical representada de manera gràfica i intuitva amb l'eina Piano Roll, als dissenys i animacions gràfiques que inclouen alguns instruments i efectes virtuals com l'emulador de Rhodes Stage-73 d'Arturia o l'efecte Cassette desenvolupat per Waveforms passant per la digitalització i processament de so que ens permet el programa en si.
 
+![Fl Studio 20 snap](https://github.com/Pere43/PAC3_Manovich_Reloaded/blob/e4e5dcdfc28eb7b0e0c8abb9791419e1e8b5d3c5/snap%20FL.JPG)
+
 ---
 
 ### Modularitat
