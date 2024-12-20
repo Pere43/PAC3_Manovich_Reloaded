@@ -77,9 +77,21 @@ Des del  segle passat l'art visual  i la música han estat conectats estretament
 ### Impacte cultural
 La gran majoria dels artistes no es  poden permetre gravar un videoclip per a totes les seves cançons, és per  això que  crec que resulta  una eina força interessant. Tot i no ser l'estàndard, l'animació mitjançant ones d'àudio  ha permès a molts petits artistes, captar i retenir audiència a les seves obres  creant interès a través de gràfics interessants i animacions originals. 
 
+Finalment  deixo un exemple que he fet tot i no tenir  massa habilitat amb el programari.
+
+![vid visualizer](https://github.com/Pere43/PAC3_Manovich_Reloaded/blob/6f650526d457f540922e0739cf4a1b8af9bbb23c/proves%20PAC3.mp4)
+
+---
 
 ## Bibliografia i referències
-http://multimedia.uoc.edu/blogs/fem/es/etiqueta/lenguajes/ 
-https://es.slideshare.net/slideshow/principios-de-lev-manovich/3439954
-https://www.youtube.com/watch?v=7WmgujgIgb8&ab_channel=fantano
-https://www.nme.com/news/music/more-music-released-in-a-single-day-in-2024-than-the-whole-of-1989-says-study-3815719
+
+Descals, Nuria(2010) 'Principios de Lev Manovich'
+Disponible a: https://es.slideshare.net/slideshow/principios-de-lev-manovich/3439954
+
+
+Fantano (2024). _There's Too Much Music_ [YouTube] 
+Consultat 28/11/2024. Disponible a: https://www.youtube.com/watch?v=7WmgujgIgb8&ab_channel=fantano
+
+
+Pilley, Max (2024) 'More music released in a single day in 2024 than the whole of 1989, says study', _NME_ 
+Disponible a: https://www.nme.com/news/music/more-music-released-in-a-single-day-in-2024-than-the-whole-of-1989-says-study-3815719
