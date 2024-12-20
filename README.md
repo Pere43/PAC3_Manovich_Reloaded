@@ -51,6 +51,8 @@ En segon lloc, i com vaig comentar a la primera PAC, l'assequibilitat d'una eina
 ### INTRODUCCIÓ
 Per a aquest segon cas he decidit centrar-me en un aspecte de l'anterior programari que crec que mereix  el seu propi anàlisi. Aquest plugin natiu amb el programa FL Studio, a diferència de tots els altres, no afecta en  absolutament res a la composició musical, aquest porgrama el que fa és una representació  gràfica de la senyal àudio que rep a través d'un canal del _mixer_. La hibridació és clara, combina senyals de so amb elements gràfics que reaccionen als canvis d'intensitat, to i ritme  per a generar una animació que, tot i ser senzilla, pot complementar,  per exemple, la cançó a _YouTube_ per tal de fer més dinàmica  l'experiència de l'oïent.
 
+![ZGameEditor snap](https://github.com/Pere43/PAC3_Manovich_Reloaded/blob/ee525b7c19f5039c5924c175f1a536ae94ec085c/ZGameEditor%20snap.JPG)
+
 ---
 ### Modularitat
 Similar a programes d'edició gràfica, ZGameEditor Visualizer, treballa amb diferents capes independents. Tot i sercapes independents i  funcionar de manera autònoma, afecten les unes a les altres  (perexemple aplicant filtres oefectesa les capes inferiors).
