@@ -20,6 +20,8 @@ Els exemples van des de la notació musical representada de manera gràfica i in
 Segons Manovich la  modularitat és  la qualitat que pot  tenir mitjà per a ser dividit i/o expandit en diferents parts (mòduls), sense afectar a l'essència del programari en si. En el cas de FL Studio, veiem com està format per molts mòduls diferents, com un  estudi  tradicional. En primer lloc, tenim totes les eines bàsiques, com l'anteriorment eesmentat Piano Roll, la finestra d'arranjaments, el seqüenciador i la taula de so o mixer.  Tots aquest elements poden existir sense necessitat dels anteriors però es combinen per a formar l'espai de treball bàsic. 
 Tot i així  crec que un exemple molt més clar de modularitat són els plugins o expansions del programa. Aquests són peces independents de software que han estat expressament creats per a adherir-se  a qualsevol DAW que utilitzi la tecnologia VST. Gràcies a aquests podem ampliar el nostre ventall d'instruments i efectes sense variar el flux de treball.
 
+![Plugins layed out example](https://github.com/Pere43/PAC3_Manovich_Reloaded/blob/7bdcf48ec725cd5c4d1946bdd2018f0e69ec97a0/Cassette%20%2B%20stage73%20snap.JPG)
+
 ---
 
 ### Automatització
