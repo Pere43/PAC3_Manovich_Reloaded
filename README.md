@@ -77,9 +77,12 @@ Des del  segle passat l'art visual  i la música han estat conectats estretament
 ### Impacte cultural
 La gran majoria dels artistes no es  poden permetre gravar un videoclip per a totes les seves cançons, és per  això que  crec que resulta  una eina força interessant. Tot i no ser l'estàndard, l'animació mitjançant ones d'àudio  ha permès a molts petits artistes, captar i retenir audiència a les seves obres  creant interès a través de gràfics interessants i animacions originals. 
 
-Finalment  deixo un exemple que he fet tot i no tenir  massa habilitat amb el programari.
+---
 
-![vid visualizer](https://github.com/Pere43/PAC3_Manovich_Reloaded/blob/6f650526d457f540922e0739cf4a1b8af9bbb23c/proves%20PAC3.mp4)
+Finalment  deixo un exemple que he fet tot i no tenir  massa habilitat amb el programari. 
+
+No permet mostrar arxius tan grans per tan si us interessa el podeu descarregar al enllaç següent:
+![Vídeo utilitzant el visualizer](https://github.com/Pere43/PAC3_Manovich_Reloaded/blob/6f650526d457f540922e0739cf4a1b8af9bbb23c/proves%20PAC3.mp4)
 
 ---
 
